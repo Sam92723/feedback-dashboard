@@ -12,7 +12,7 @@ database_id = "4ca00e26-e7cb-4a93-aeee-1ab98a512b79"
 [ai]
 binding = "AI"
 
-# 3. The Frontend Connection (YOU WERE MISSING THIS!)
+
 [assets]
 directory = "./dist"
 binding = "ASSETS"
